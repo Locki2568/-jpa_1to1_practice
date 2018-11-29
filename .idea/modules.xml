@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa_1to1_practice.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa_1to1_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa_1to1_practice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa_1to1_practice_main.iml" group="jpa_1to1_practice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa_1to1_practice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa_1to1_practice_test.iml" group="jpa_1to1_practice" />
+    </modules>
+  </component>
+</project>
